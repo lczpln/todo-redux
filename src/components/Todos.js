@@ -9,7 +9,7 @@ class Todos extends Component {
     const { todos, showDones } = this.props;
 
     const todoTxt = "Você não tem nenhuma to-do!";
-    const donesTxt = "Suas to-do concluidas apareceram aqui!";
+    const donesTxt = "Suas to-do concluidas aparecerão aqui!";
 
     let text = '';
 
